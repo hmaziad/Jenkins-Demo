@@ -10,4 +10,5 @@ class MainTest {
     void dummyTest() {
         assertEquals(1,Main.main());
     }
+
 }
